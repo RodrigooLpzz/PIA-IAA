@@ -1,6 +1,11 @@
 # PIA: Introducción al Aprendizaje Automático
 **Modelo Predictivo de Goles Esperados (xG) en la Premier League**
 
+- Rodrigo Lopez Escobedo 2049807
+- Gustavo Arreola Almaguer 2074164
+- David Elias Hernandez Arellano 1999703
+- Diego Andre Islas Cadillo 2132810
+
 ## Sobre el Conjunto de Datos
 Este proyecto utiliza el dataset `epl_2024_2025_match_shots.csv` (10MB) que contiene aproximadamente 9,000 registros correspondientes a **todos los tiros realizados en los partidos de la English Premier League (EPL)** durante la temporada **2024 - 2025**.
 
